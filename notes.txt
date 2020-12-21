@@ -1,0 +1,44 @@
+
+
+Types of Testing:
+	1. static
+	2. dynamic
+
+Dex2jar & JD-GUI
+APKTOOL
+Drozer (activity bypass, )
+Android utilities – adb, sqlite3, aapt etc.
+Frida
+tamer os
+Santoku Linux OS
+
+Insecure Logging
+Hardcoding Issues - Part 1
+Insecure Data Storage
+Input Validation Issues - Part 1
+Input Validation Issues - Part 2
+Access Control Issues - Part 1
+Access Control Issues - Part 2
+Access Control Issues - Part 3
+Hardcoding Issues - Part 2
+Input Validation Issues - Part 3
+
+obfuscated with a tool like ProGuard.
+ProGuard - 
+
+
+SSL Pinning: The client will only trust the server if the server can provide a valid vertificate that is signed by one of the trusted certificate authorities that come pre-installed in the client, otherwise the connection will be aborted.
+Dynamic analysis:
+ssl pinning bypass:
+xposed installer apk
+sslunpinning
+trustmealready
+rootcloak (to hide root from some of the application)
+
+
+MobSF - Mobile Security Framework (MobSF) is an intelligent, all-in-one open source mobile application (Android/iOS/Windows) automated pen-testing framework capable of performing static and dynamic analysis. - Download
+droidstatx - Python tool that generates an Xmind map with all the information gathered and any evidence of possible vulnerabilities identified via static analysis. - Download
+Apktool - A tool for reverse engineering Android apk files - Download
+Brida - Brida is a Burp Suite Extension that, working as a bridge between Burp Suite and Frida, lets you use and manipulate applications’ own methods while tampering the traffic exchanged between the applications and their back-end services/servers. It supports all platforms supported by Frida (Windows, macOS, Linux, iOS, Android, and QNX). - Download
+ReverseAPK - Quickly analyze and reverse engineer Android packages. - Download
+Andrax - Android penetration testing framework. - Download
