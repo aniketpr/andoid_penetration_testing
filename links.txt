@@ -1,0 +1,7 @@
+Android PT:
+https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting
+
+Drozer:
+https://blog.dixitaditya.com/android-pentesting-cheatsheet/
+https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting/drozer-tutorial
+https://github.com/saeidshirazi/awesome-android-security#Static-Analysis
